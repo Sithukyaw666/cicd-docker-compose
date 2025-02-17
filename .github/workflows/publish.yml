@@ -25,4 +25,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tag: sithukyaw666/cicd-testing:latest
+          tags: sithukyaw666/cicd-testing:latest
