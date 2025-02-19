@@ -26,4 +26,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: registry.gitlab.com/jack-group/cicd-docker-compose:latest
+          tags: registry.gitlab.com/jack-group/pod-info-frontiir/cicd-docker-compose:latest
